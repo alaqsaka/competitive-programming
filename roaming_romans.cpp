@@ -8,7 +8,7 @@ main()
 	cin >> X;
 	if(X>=0 && X<= 1000)
 	{
-		double pace;
+		int pace;
 		pace = X * (5280.0 / 4854.0) * 1000.0 + 0.5;
 		cout << "" << round(pace);
 	}
