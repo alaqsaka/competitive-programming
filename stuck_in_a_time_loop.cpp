@@ -9,7 +9,7 @@ main()
 	{
 		int i; 
 		for(i=1; i<=N; i++){
-			cout << "" << i << " Abracadbra" << endl;
+			cout << "" << i << " Abracadabra" << endl;
 		}
 	}
 }
